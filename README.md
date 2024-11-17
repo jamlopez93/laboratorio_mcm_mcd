@@ -22,12 +22,12 @@ Asegúrate de tener instalado lo siguiente antes de ejecutar el programa:
 Instalación 🔧
 
     Clona este repositorio:
-    git clone https://github.com/tu-usuario/mcm-mcd.git
+    git clone https://github.com/jamlopez93/laboratorio_mcm_mcd
 cd mcm-mcd
 
 Ejecuta el programa:
 
-    python mcm_mcd.py
+    python laboratorio_mcm_mcd.py
 
 Uso 🚀
 
